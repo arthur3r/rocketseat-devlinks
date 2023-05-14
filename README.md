@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img src=".github/assets/preview.png" alt="DevLinks" width="100%">
+  <img src=".github/preview.png" alt="DevLinks" width="100%">
   </a>
 </p>
 
